@@ -1,0 +1,25 @@
+.header h3{
+    height: 90px;
+   }
+   .header{
+       text-align: center;
+       
+   }
+   .header nav{
+       background-color:black;
+       line-height:80px;
+       font-size:23px;
+   }
+   .header a{
+       text-decoration:none;
+       color:white;
+       margin-right: 20px;
+       padding: 10px;
+   }
+   .logo{
+       text-align: center;
+   }
+
+   .active{
+    color:red;
+   }

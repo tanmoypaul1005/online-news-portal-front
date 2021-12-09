@@ -1,0 +1,6 @@
+.news{
+    display: flex;
+    flex-wrap:wrap;
+    margin: 60px;
+    padding: 20px;
+}

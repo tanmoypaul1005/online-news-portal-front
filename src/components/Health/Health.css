@@ -1,0 +1,6 @@
+#health{
+    display: flex;
+    flex-wrap:wrap;
+    margin: 20px;
+    padding: 20px;  
+}
